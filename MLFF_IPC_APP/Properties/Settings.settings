@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MLFF_IPC_APP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="COM" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="GANTRY_SN" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GSN201810001</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
